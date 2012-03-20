@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/mobapp/!svn/ver/981/gmarra/mauradersmap/res/layout
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/mobapp/!svn/ver/813/gmarra/mauradersmap/res/layout/main.xml
+END
+row_person.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mobapp/!svn/ver/811/gmarra/mauradersmap/res/layout/row_person.xml
+END
+binder.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/mobapp/!svn/ver/979/gmarra/mauradersmap/res/layout/binder.xml
+END
+wifi_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/mobapp/!svn/ver/972/gmarra/mauradersmap/res/layout/wifi_test.xml
+END
+row_router.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/mobapp/!svn/ver/972/gmarra/mauradersmap/res/layout/row_router.xml
+END
+row_no_person.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/mobapp/!svn/ver/981/gmarra/mauradersmap/res/layout/row_no_person.xml
+END

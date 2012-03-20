@@ -1,0 +1,42 @@
+9
+
+dir
+0
+http://acl.olin.edu/svn/mobapp/gmarra/mauradersmap/res/drawable-mdpi
+http://acl.olin.edu/svn/mobapp
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c74c01fc-b85d-0410-8adc-f8f6cd2848f2
+
+icon.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

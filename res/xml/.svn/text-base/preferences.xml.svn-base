@@ -1,0 +1,21 @@
+<PreferenceScreen 
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Marauder's Map Preferences">
+        <EditTextPreference 
+            android:dialogTitle="Olin Username"
+            android:dialogMessage="Enter your Olin domain username. For instance, Harry Potter is hpotter."
+            android:title="Username"
+            android:key="username"
+            android:selectable="true"
+            android:enabled="true"
+            android:summary="Your Olin domain username"
+            android:positiveButtonText="Set Name"
+            android:negativeButtonText="Cancel" />
+            
+        <CheckBoxPreference
+            android:key="debug_mode"
+            android:title="Debug Mode"
+            android:summary="Enable debug features." />
+            
+</PreferenceCategory>
+</PreferenceScreen>

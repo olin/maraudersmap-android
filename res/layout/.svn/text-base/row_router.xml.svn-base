@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:padding="4dip" >
+	    <TextView
+	        android:id="@+id/ssidTextView"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textSize="16dip"
+	        android:text="ssid" />
+	    <TextView
+	        android:id="@+id/bssidTextView"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content" 
+	        android:textSize="12dip" 
+	        android:text="bssid" />
+	</LinearLayout>
+	<TextView
+	   android:id="@+id/dbTextView"
+	   android:layout_width="wrap_content"
+	   android:layout_height="wrap_content"
+	   android:textSize="16dip"
+	   android:text="db" 
+	   android:padding="4dip" />
+</LinearLayout>

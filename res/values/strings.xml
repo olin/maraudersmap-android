@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marauder\'s Map</string>
+    <string name="localytics_key">"e6d2c82f72ef287b95752-469b138358495-0-dea0cb-df548cf0c"</string>
+    
+    <string name="activity_wifi_test_name">Wifi Test</string>
+    <string name="activity_binder_name">Set Your Location</string>
+    <string name="activity_binder_title">Set Your Location</string>
+    <string name="activity_edit_preferences_name">Edit Preferences</string>
+    
+    <string name="button_bind_label">Set Location</string>
+    
+    <string name="dialog_loading_title">Loading...</string>
+    <string name="dialog_loading_message">Up to no good.</string>
+    
+    <string name="dialog_place_other_title">We\'ve lost you</string>
+    <string name="dialog_place_other_body">Sorry, but we\'ve got no idea where you are. Please check in at your current location more from your computer so we can better understand the area.</string>
+    <string name="dialog_place_other_button">Lame!</string>
+    
+    <string name="dialog_no_username_title">Who goes there?</string>
+    <string name="dialog_no_username_body">Before you can tell the Map <i>where</i> you are, we have to know <i>who</i> you are!</string>
+    <string name="dialog_no_username_positive_button">Set Username</string>
+    <string name="dialog_no_username_negative_button">Go Back</string>
+    
+    <string name="places_other">None of these</string>
+    
+    <string name="error_no_people_refresh">No people found. Refresh?</string>
+    <string name="error_no_people">No people found. Are you on Olin College wifi?</string>
+    <string name="error_no_routers">No routers found. Is your wifi on?</string>
+    
+    <string name="hint_filter">Type to filter by name or place.</string>
+    
+    <string name="menu_binder">Your Location</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_wifi_test">Wifi Debug</string>
+    <string name="menu_user_list">Map List</string>
+    <string name="menu_preferences">Preferences</string>
+    
+    <string name="binder_location_prefix">You are now</string>
+    <string name="binder_location_prompt">Where are you?</string>
+</resources>
